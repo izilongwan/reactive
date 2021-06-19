@@ -1,2 +1,1 @@
-# reactive
-vue2 &amp;&amp; vue3
+# vue2 && vue3 reactive
